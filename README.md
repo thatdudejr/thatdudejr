@@ -1,13 +1,13 @@
 # Hi there, I'm [thatdudejr] 👋
-- [Minecraft-Animator]
-- ![Animator](Animator.png) 
-- [Content-Creator]
-- ![Content Creator](content-creator.png)
+ [Minecraft-Animator]
+ ![Animator](Animator.png) 
+ [Content-Creator]
+  ![Content Creator](content-creator.png)
 
-I'm a passionate animator, coder, writer, and content creator. Here are some of the things I do:
+I'm a passionate animator, coder, writer, editor and content creator. Here are some of the things I do:
 
 
-- 🎥 Minecraft Animator on Rumble
+- 🎥 Minecraft Animations And Edits on Rumble
 - 💻 Coding projects on GitHub
 - 📝 Writing content
 - 🎮 Creating simple HTML games
