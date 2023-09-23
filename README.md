@@ -1,8 +1,7 @@
 # Hi there, I'm [thatdudejr] 👋
-
+- [Minecraft-Animator]
 - ![Animator](Animator.png) 
-- ![Coder](test2) 
-- ![Writer](test.png) 
+- [Content-Creator]
 - ![Content Creator](content-creator.png)
 
 I'm a passionate animator, coder, writer, and content creator. Here are some of the things I do:
