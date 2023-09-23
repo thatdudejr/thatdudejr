@@ -14,7 +14,7 @@ I'm a passionate animator, coder, writer, editor and content creator. Here are s
 
 ## 📺 Animation Showcase
 
-Check out some of my Minecraft animation work on - [![Rumble](https://rumble.com/img/rumble-full-logo-v4.svg)](https://rumble.com/c/c-2544110)
+Check out some of my Minecraft animation that I work on - [![Rumble](https://rumble.com/img/rumble-full-logo-v4.svg)](https://rumble.com/c/c-2544110)
 https://rumble.com/c/c-2544110
 - [TheFatRat - Rise Up](https://rumble.com/v3e8tvd-thefatrat-rise-up-minecraft-music-video-animation-test.html)
 - [Justin Bieber - Sorry](https://rumble.com/v305rsw-justin-bieber-sorry-minecraft-music-video-animation.html)
