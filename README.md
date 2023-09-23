@@ -1,9 +1,9 @@
 # Hi there, I'm [thatdudejr] 👋
 
-- ![Animator](https://th.bing.com/th/id/R.9fdbbaf0d82bf6654313d762797384cd?rik=lgHZ2Uc39rw3xA&riu=http%3a%2f%2fwww.newdesignfile.com%2fpostpic%2f2010%2f06%2fcreeper-minecraft-server-icons_23465.jpg&ehk=za04LAGNUJlnsSxuC1MH2m3UxqwspV2P6vXrLZxW%2fnA%3d&risl=&pid=ImgRaw&r=0) 
-- ![Coder](https://th.bing.com/th/id/OIP.3SYZDAXmGbY58APxxRKaMwHaGv?w=209&h=190&c=7&r=0&o=5&pid=1.7) 
-- ![Writer](https://th.bing.com/th/id/R.cd02444046d555bbb6161f304203f213?rik=gCSJoJOb0sv9EQ&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_56736.png&ehk=%2fZWJPCfagxFGHsEC%2fpUyONEA9G%2fuEpL72oj3r3FhOBI%3d&risl=&pid=ImgRaw&r=0) 
-- ![Content Creator](https://th.bing.com/th/id/OIP.gam9isoIEgdusY_dSiF8hgHaHa?w=174&h=180&c=7&r=0&o=5&pid=1.7)
+- ![Animator](Animator.png) 
+- ![Coder](test2) 
+- ![Writer](test.png) 
+- ![Content Creator](content-creator.png)
 
 I'm a passionate animator, coder, writer, and content creator. Here are some of the things I do:
 
