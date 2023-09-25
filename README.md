@@ -4,11 +4,11 @@
  [Content-Creator]
   ![Content Creator](content-creator.png)
 
-I'm a passionate animator, coder, writer, editor and content creator. Here are some of the things I do:
+I'm a passionate animator, Prompt Engineer, writer, editor and content creator. Here are some of the things I do:
 
 
 - 🎥 Minecraft Animations And Edits on Rumble
-- 💻 Coding projects on GitHub
+- 💻 Ai Prompt Engineering Code Such as [Html] [Css] [Js] [Php] [Ajax] and much more Using ChatGPT.
 - 📝 Writing content
 - 🎮 Creating simple HTML games
 
@@ -23,9 +23,9 @@ Check out some of my Minecraft animation that I work on - [https://rumble.com/c/
 - [March 15, 2023](https://rumble.com/v2dbzkg-march-15-2023.html)
 
 
-## 💻 Coding Projects
+## 💻 Ai Prompt Creation Projects
 
-Here are some of the coding projects I've worked on:
+Here are some of the Ai Prompt Creation projects I've Made Using ChatGPT:
 
 - [Advanced Video Platform](https://github.com/thatdudejr/advanced-php-video-platform)
 - [Music Platform](https://github.com/thatdudejr/advanced-php-video-platform)
