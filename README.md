@@ -8,7 +8,7 @@ I'm a passionate animator, Prompt Engineer, writer, editor and content creator. 
 
 
 - 🎥 Minecraft Animations And Edits on Rumble
-- 💻 Ai Prompt Engineering Code Such as [Html] [Css] [Js] [Php] [Ajax] and much more Using ChatGPT.
+- 💻 Ai Prompt Engineering Code Such as [Html] [Css] [Js] [Php] [Ajax] [Python] and much more Using ChatGPT.
 - 📝 Writing content
 - 🎮 Creating simple HTML games
 
